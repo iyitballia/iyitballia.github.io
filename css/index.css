@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+
+#head_mem{
+
+    padding-top:35px;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 1px 2px black;
+    
+
+}
+
+#hori{
+
+    width: 150px;
+    border:1px solid brown;
+    
+
+}
+
+#mission_sec{
+
+margin-top: 75px;
+margin-bottom: 50px;
+
+}
+
+#hori_sec{
+
+    width: 85%;
+    border:2px solid wheat;
+    
+
+}
+
+.card-text{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.card-txt{
+    /* padding-top: 5px; */
+    /* padding-bottom: 5px; */
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+#horiz{
+
+
+    width: 150px;
+    margin-bottom: 20px;
+    margin-top:10px;
+
+}
+
+#para-txt{
+
+    font-family: 'Raleway', sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    margin-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 5px;
+    font-weight: bolder;
+
+}
+#rps_heading{
+    text-align: center;
+    padding-top:35px;
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 1px 2px black;
+}
+
+#vdo{
+
+    margin-bottom: 100px;
+    margin-top: 50px;
+
+}
+
+#viv_txt{
+
+    float: center;
+    padding-bottom: 0px;
+    padding-top: 30px;
+    /* line-height: 50px; */
+    font-size: 15px;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+/* #footer_img{
+    line-height: 5px;
+    background-color: red;
+    width: 50%;
+
+} */
+
+#footer_txt{
+    /* text-align: center; */
+    font-family: 'PT Sans Caption', sans-serif;
+    letter-spacing: 1px;
+}
+
+#footer_style{
+
+    background-color: #03001a;
+    
+}
+
+/* articles style */
+.forecast {
+    margin: 0;
+    padding: .3rem;
+    background-image: linear-gradient(to right top, #0066ff, #f03acf, #ff487d, #ff9b2d, #ede30b);
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-bottom: 100px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.forecast > h1,
+.day-forecast {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+.day-forecast {
+    background: right/contain content-box border-box no-repeat white;
+    padding-top: 10px;
+    margin-top: 50px;
+    border-radius: 15px;
+    
+}
+
+.day-forecast > h2,
+.day-forecast > p {
+    margin: .2rem;
+    font-size: 1rem;
+}
+
+
